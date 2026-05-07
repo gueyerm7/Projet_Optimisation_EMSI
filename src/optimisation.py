@@ -29,5 +29,3 @@ def resoudre_probleme():
     }
 
     return resultat
-
-nnnnn
